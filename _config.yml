@@ -1,6 +1,6 @@
 slogan: "Yet another bootstrap theme."
 
-theme: cerulean
+theme: jekyll-theme-cayman
 inverse: inverse
 
 menu:
